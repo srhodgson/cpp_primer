@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "add_sales", "add_sales\add_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sales_member_function", "sales_member_function\sales_member_function.vcxproj", "{E303951A-EFC2-41FE-99F6-DCD107E89BD5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bookstore", "bookstore\bookstore.vcxproj", "{5D58EA0B-4030-4506-A973-EC3F28A4072D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{E303951A-EFC2-41FE-99F6-DCD107E89BD5}.Release|x64.Build.0 = Release|x64
 		{E303951A-EFC2-41FE-99F6-DCD107E89BD5}.Release|x86.ActiveCfg = Release|Win32
 		{E303951A-EFC2-41FE-99F6-DCD107E89BD5}.Release|x86.Build.0 = Release|Win32
+		{5D58EA0B-4030-4506-A973-EC3F28A4072D}.Debug|x64.ActiveCfg = Debug|x64
+		{5D58EA0B-4030-4506-A973-EC3F28A4072D}.Debug|x64.Build.0 = Debug|x64
+		{5D58EA0B-4030-4506-A973-EC3F28A4072D}.Debug|x86.ActiveCfg = Debug|Win32
+		{5D58EA0B-4030-4506-A973-EC3F28A4072D}.Debug|x86.Build.0 = Debug|Win32
+		{5D58EA0B-4030-4506-A973-EC3F28A4072D}.Release|x64.ActiveCfg = Release|x64
+		{5D58EA0B-4030-4506-A973-EC3F28A4072D}.Release|x64.Build.0 = Release|x64
+		{5D58EA0B-4030-4506-A973-EC3F28A4072D}.Release|x86.ActiveCfg = Release|Win32
+		{5D58EA0B-4030-4506-A973-EC3F28A4072D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
