@@ -5,7 +5,7 @@ int main()
 {
 	Sales_item book;
 
-	// read ISB, number of copies solde, and sales price
+	// read ISB, number of copies sold, and sales price
 	std::cin >> book;
 
 	// write ISBN, number of copies sold, total revenue , and average price
